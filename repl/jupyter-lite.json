@@ -5,6 +5,11 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
+      ],
+      "translation-extension": [
+          "displayStringsPrefix": false,
+          "locale": "fr_FR",
+          "stringsPrefix": "!!",
       ]
     }
   }
